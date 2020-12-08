@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">GerbApp</string>
+
+    <string-array name="cities">
+        <item>Москва</item>
+        <item>Санкт-Петербург</item>
+        <item>Екатеренбург</item>
+        <item>Новосибирск</item>
+        <item>Самара</item>
+    </string-array>
+
+    <integer-array name="coatutofarms_imgs">
+        <item>@drawable/moscow_gerb</item>
+        <item>@drawable/spb_gerb</item>
+        <item>@drawable/ykb_gerb</item>
+        <item>@drawable/nvs_gerb</item>
+        <item>@drawable/samara_gerb</item>
+    </integer-array>
+</resources>
